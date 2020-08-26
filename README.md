@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Gonzalo Caira Aguilar</h1>
-<h3 align="center">A passionate student in computer science</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=madscientist98" alt="madscientist98" /> </p>
 
