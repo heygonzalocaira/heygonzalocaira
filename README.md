@@ -1,6 +1,10 @@
 <h1 align="center">Hi 👋, I'm Gonzalo Caira Aguilar</h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=madscientist98" alt="madscientist98" /> </p>
+<p align="left"> 
+  <img src="https://komarev.com/ghpvc/?username=madscientist98" alt="madscientist98" /> 
+  <a href="https://github.com/madscientist98"><img src="https://img.shields.io/github/followers/madscientist98.svg?label=GitHub&style=social" alt="GitHub"></a>
+	<a href="https://twitter.com/gonzalocaira"><img src="https://img.shields.io/twitter/follow/GonzaloCaira?label=Twitter&style=social" alt="Twitter"></a>
+</p>
 
 - 🌱 I’m currently learning **Machine Learning**
 
