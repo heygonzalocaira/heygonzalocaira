@@ -17,8 +17,8 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=madscientist98&show_icons=true" alt="madscientist98" /></p>
 
 <p align="center">
-<a href="https://twitter.com/https://twitter.com/gonzalocaira" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="https://twitter.com/gonzalocaira" height="30" width="30" /></a>
-<a href="https://fb.com/https://www.facebook.com/gonzaloalejandro.cairaaguilar/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="https://www.facebook.com/gonzaloalejandro.cairaaguilar/" height="30" width="30" /></a>
-<a href="https://instagram.com/https://www.instagram.com/gonzalocaira/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="https://www.instagram.com/gonzalocaira/" height="30" width="30" /></a>
-<a href="https://medium.com/https://medium.com/@gc98wootz" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="https://medium.com/@gc98wootz" height="30" width="30" /></a>
+<a href="https://twitter.com/gonzalocaira" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="https://twitter.com/gonzalocaira" height="30" width="30" /></a>
+<a href="https://www.facebook.com/gonzaloalejandro.cairaaguilar/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="https://www.facebook.com/gonzaloalejandro.cairaaguilar/" height="30" width="30" /></a>
+<a href="https://www.instagram.com/gonzalocaira/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="https://www.instagram.com/gonzalocaira/" height="30" width="30" /></a>
+<a href="https://medium.com/@gc98wootz" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="https://medium.com/@gc98wootz" height="30" width="30" /></a>
 </p>
