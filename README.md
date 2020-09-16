@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **Machine Learning**
 
-- 📝 I regulary write articles on [https://medium.com/@gc98wootz](https://medium.com/@gc98wootz)
+- 📝 I regulary write articles on [Medium @gc98wootz](https://medium.com/@gc98wootz)
 
 - 💬 Ask me about **Python, Dart , Lua , C++**
 
