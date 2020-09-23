@@ -2,6 +2,7 @@
 
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=madscientist98" alt="madscientist98" /> 
+  <img alt="GitHub User's stars" src="https://img.shields.io/github/stars/madscientist98?style=social">
 </p>
 
 - 🌱 I’m currently learning **Machine Learning**
