@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Gonzalo Caira Aguilar</h1>
 
-<p align="left"> 
+<p align="center"> 
   <img src="https://komarev.com/ghpvc/?username=madscientist98" alt="madscientist98" /> 
   <img alt="GitHub User's stars" src="https://img.shields.io/github/stars/madscientist98?style=social">
 </p>
