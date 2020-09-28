@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Gonzalo Caira Aguilar</h1>
+<h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I'm Gonzalo Caira Aguilar</h1>
 
 <p align="center"> 
   <img src="https://komarev.com/ghpvc/?username=madscientist98" alt="madscientist98" /> 
