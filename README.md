@@ -19,11 +19,20 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=heymadscientist&layout=compact&hide=html" alt="heymadscientist" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=heymadscientist&show_icons=true" alt="heymadscientist" /></p>
 
+## Support
+
+💙 If you like this project, give it a ⭐ and share it with friends. Don't forget subscribe to my Youtube channel @heymadscientist!
+
+<p align="left">
+  <a href="https://www.youtube.com/channel/UC09ICbJMHMfceWhVLGiseSA"><img alt="Youtube" title="Youtube" src="https://img.shields.io/badge/-Subscribe-red?style=for-the-badge&logo=youtube&logoColor=white"/></a>
+  
+</p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/gonzalo-caira-aguilar/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/gonzalo-caira-aguilar/" height="30" width="40" /></a>
 <a href="https://twitter.com/h3ymadscientist" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="https://twitter.com/h3ymadscientist" height="30" width="30" /></a>
 <a href="https://www.instagram.com/gonzalocaira/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="https://www.instagram.com/gonzalocaira/" height="30" width="30" /></a>
 <a href="https://medium.com/@gonzalocaira" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="https://medium.com/@gonzalocaira" height="30" width="30" /></a>
+<a href="https://www.youtube.com/channel/UC09ICbJMHMfceWhVLGiseSA" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="hey mad scientist" height="30" width="40" /></a>
 
 </p>
