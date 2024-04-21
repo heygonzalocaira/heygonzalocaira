@@ -10,7 +10,7 @@
 
 - 📝 I regulary write articles on Medium [@gonzalocaira](https://medium.com/@gonzalocaira)
 
-- ❓ Ask me about **Flutter, Dart , ReactJs , Javascript**
+- ❓ Ask me about **Flutter, Dart , Swift , Kotlin **
 
 - 📫 How to reach me **gcairaaguilar@gmail.com**
  
