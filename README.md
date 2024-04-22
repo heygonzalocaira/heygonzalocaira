@@ -1,4 +1,4 @@
-<h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px" height="25px">, I'm Gonzalo Caira a Mobile Software Engineer and Content Creator in Youtube🚀 </h1>
+<h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px" height="25px">, I'm Gonzalo Caira a Software Engineer and Content Creator in Youtube🚀 </h1>
 
 <p align="center"> 
   <img src="https://komarev.com/ghpvc/?username=heygonzalocaira" alt="heygonzalocaira" /> 
@@ -8,13 +8,13 @@
 
 - 🔭 I’m currently working on my Youtube Channel [HeyGonza](https://www.youtube.com/c/HeyGonza) to teach programming 
 
-- 📝 I regulary write articles on Medium [@gonzalocaira](https://medium.com/@gonzalocaira)
+- 🔥 GDG Organizer at [GDG Arequipa](https://gdg.community.dev/gdg-arequipa/)
 
-- ❓ Ask me about **Flutter, Dart , Swift , Kotlin **
+- ❓ Ask me about **Flutter, Dart , Swift , Kotlin**
 
 - 📫 How to reach me **gcairaaguilar@gmail.com**
  
-- 🔥 GDG Organizer at [GDG Arequipa](https://gdg.community.dev/gdg-arequipa/)
+
 ## My Skill Set  
 <table><tr><td valign="top" width="33%">
 
